@@ -11,9 +11,8 @@ I'm a PhD student in Vision Science, researching visual perception and eye movem
 - Open science and reproducibility
 - Mentorship, collaboration, and science communication
 
-📫 How to reach me:  
+📫 Let's connect:  
 - [Email](mailto:srijita@ucsb.edu)  
-- [Google Scholar](https://scholar.google.com/citations?user=ob_lTSsAAAAJ&hl=en)  
 - [My Academic Website](https://srijitakarmakar.github.io/#/)
 - [My (not so frequently updated) Blog](https://afterninetrees.wordpress.com/)
 
