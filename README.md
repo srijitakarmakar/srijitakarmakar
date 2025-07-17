@@ -6,7 +6,7 @@ I'm a PhD student in Vision Science, researching visual perception and eye movem
 
 🔬 Interests:  
 - Visual attention, eye movements, and gaze following 
-- EEG in perception
+- Eye tracking + EEG in perception
 - Mind and machine intelligence
 - Open science and reproducibility
 - Mentorship, collaboration, and science communication
